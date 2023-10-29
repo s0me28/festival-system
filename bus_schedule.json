@@ -1,0 +1,18 @@
+{
+    "101": {
+        "Thursday": {
+            "Université": "No traffic on rue du Seyon from 5.50 p.m"
+        },
+        "Friday": {
+            "Université": "Every 10 min. from the 1st race to midnight, then every 20 min. until 4 a.m."
+        },
+        "Saturday": {
+            "Université": "Every 10 min. from 7 a.m. to midnight, then every 20 min. until 4 a.m."
+        },
+        "Sunday": {
+            "Hôpital Pourtalès": "(Until 6 p.m.) From 11 a.m. to 1:29 p.m. every 10 min. From 1.30pm to 7.20pm every 5 min.",
+            "Université": "(From 6 p.m.) From 19h21 to 21h every 10 min. From 21h01 every 20 minutes. Last departure at the usual time"
+        }
+    }
+
+}
