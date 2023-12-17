@@ -5,8 +5,6 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 # from chatterbot.trainers import ListTrainer
 
 # This is the training .py file
-# Best darling
-# https://drive.google.com/drive/folders/13T_ww9Ayzo-A7PREPA1Fki_TW4ULvDa9?usp=drive_link
 
 # Pisoiul Bot
 chatbot = ChatBot("Pisoiul")
